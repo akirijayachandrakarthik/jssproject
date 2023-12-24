@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e539862b-ade7-439c-9137-7e13fa0628ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/medstore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../medstore/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../medstore/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../medstore/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../medstore/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0002_auto_20171101_1702.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0003_auto_20171101_1852.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0004_auto_20171101_1915.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0005_auto_20171101_1915.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0006_remove_order_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0007_auto_20171107_1856.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0008_auto_20171107_2153.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0009_auto_20171109_0037.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0010_auto_20171109_1218.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0011_auto_20171109_1235.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0012_auto_20171110_1850.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0013_auto_20171110_1915.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0014_auto_20171111_2006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0015_auto_20171111_2125.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0016_auto_20171111_2128.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/0017_auto_20171111_2134.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/bootstrap4.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/bghome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/cust.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/dealer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/emp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/favicon2.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/med.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/images/purchase.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/LibreBaskerville-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/LibreBaskerville-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/LibreBaskerville-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/bootstrap4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/static/pharma/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/cust.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/custtable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/dealer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/dealertable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/emp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/emptable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/med.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/medtable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/purchase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/templates/pharma/purchasetable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pharma/views.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZRlSxDoTRpFAM0JUYtKHbEKnyx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/Desktop/JSS PROJECT"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e539862b-ade7-439c-9137-7e13fa0628ca" name="Changes" comment="" />
+      <created>1702392776086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702392776086</updated>
+    </task>
+    <servers />
+  </component>
+</project>

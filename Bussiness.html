@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading Animation</title>
+  <style>
+       body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        #loading-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            height: 100vh;
+        }
+
+        .loading-image {
+            opacity: 0;
+            animation: fadeIn 1s ease-in-out forwards;
+            margin: 10px; /* Adjust the margin as needed */
+            border: 2px solid #3498db; /* Add a border with the desired color */
+            border-radius: 8px; /* Optional: Add rounded corners for a smoother look */
+        }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        #redirect-button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #3498db;
+            color: #fff;
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div id="loading-container">
+  <img class="loading-image" data-delay="0" src="./assets/images/Bussiness%20works/BW1.jpeg" alt="Image 1" width="250" height="250">
+  <img class="loading-image" data-delay="5000" src="./assets/images/Bussiness%20works/BW2.jpeg" alt="Image 2" width="250" height="250">
+  <img class="loading-image" data-delay="10000" src="./assets/images/Bussiness%20works/BW3.jpeg" alt="Image 3" width="250" height="250">
+  <img class="loading-image" data-delay="15000" src="./assets/images/Bussiness%20works/BW4.jpeg" alt="Image 4" width="250" height="250">
+  <img class="loading-image" data-delay="20000" src="./assets/images/Bussiness%20works/BW5.jpeg" alt="Image 5" width="250" height="250">
+  <img class="loading-image" data-delay="250000" src="./assets/images/Bussiness%20works/BW6.jpeg" alt="Image 6" width="250" height="250">
+  <img class="loading-image" data-delay="30000" src="./assets/images/Bussiness%20works/BW7.jpeg" alt="Image 7" width="250" height="250">
+  <img class="loading-image" data-delay="35000" src="./assets/images/Bussiness%20works/BW8.jpeg" alt="Image 8" width="250" height="250">
+  <img class="loading-image" data-delay="40000" src="./assets/images/Bussiness%20works/BW9.jpeg" alt="Image 9" width="250" height="250">
+  <img class="loading-image" data-delay="45000" src="./assets/images/Bussiness%20works/BW10.jpeg" alt="Image 10" width="250" height="250">
+
+  <a id="redirect-button" href="Bussiness1.html">Go to Next Page</a>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const images = document.querySelectorAll('.loading-image');
+        images.forEach((image, index) => {
+            setTimeout(() => {
+                image.style.opacity = '1';
+            }, parseInt(image.getAttribute('data-delay')));
+        });
+    });
+
+    document.getElementById('redirect-button').addEventListener('click', function () {
+        window.location.href = this.href;
+    });
+</script>
+
+</body>
+</html>
