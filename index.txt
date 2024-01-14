@@ -84,7 +84,7 @@ alt = How intercom brings play into their design process
 Keyword Targeting
 
 alt = Stuck with to-do list, I created a new app for
-Email Marketing
+
 
 alt = Examples of different types of sprints
 Marketing & Reporting
